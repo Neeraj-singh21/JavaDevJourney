@@ -1,4 +1,10 @@
+/**
+ * 
+ */
 public class Java2 {
+	/**
+	 * @param Args
+	 */
 	public static void main(String Args[]) {
 		int a = 10 , b = 23;
 		
